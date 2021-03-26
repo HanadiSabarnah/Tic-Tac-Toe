@@ -1,0 +1,24 @@
+.container{
+  text-align: center;
+  align-content: center;
+  color: rgb(18, 18, 19);
+}
+
+
+
+.box{
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  display:  inline-block;
+  line-height: 80px;
+  color: rgb(197, 24, 24);
+  background-color: aqua;
+}
+
+.board{
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 320px;
+  
+}
